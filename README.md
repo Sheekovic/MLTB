@@ -23,4 +23,4 @@ Results
 The machine learning trading bot achieves high accuracy with all five models, with accuracy ranging from 98.8% to 99.8%. The bot can be used to make predictions on a variety of cryptocurrencies and date ranges.
 
 License
-This project is licensed under the MIT License. Feel free to use and modify this code as you see fit.
+This project is licensed to Sheekovic. Feel free to use and modify this code as you see fit.
